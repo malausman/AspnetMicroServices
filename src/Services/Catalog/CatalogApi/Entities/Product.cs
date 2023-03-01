@@ -3,6 +3,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace CatalogApi.Entities
 {
+    //adding comments for push
     public class Product
     {
         [BsonId]
